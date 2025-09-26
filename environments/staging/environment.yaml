@@ -44,6 +44,7 @@ app:
   #    region: us-east-1
 
   version: ""
+  startupTimeout: 60
 # probes
 # dynamic scaling
 # scaling to 0
