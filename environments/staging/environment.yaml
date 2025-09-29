@@ -44,7 +44,8 @@ app:
   #    region: us-east-1
 
   version: "e0038d5a-7cc3-4d80-a9fc-e9c0235a72ff"
-  startupTimeout: 12
+  startupTimeout: 40
+  endpoints: public
 # probes
 # dynamic scaling
 # scaling to 0
