@@ -44,7 +44,7 @@ app:
   #    region: us-east-1
 
   version: "64bbc1f9-d5eb-444f-9e53-71413408affa"
-  startupTimeout: 40
+  startupTimeout: 240
   endpoints: public
 # test
 # probes
