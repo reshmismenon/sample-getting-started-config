@@ -43,7 +43,7 @@ app:
   #    logGroup: myLogGroup
   #    region: us-east-1
 
-  version: "60ebcd80-a54b-4375-ab7f-bcdbb8edbfe9"
+  version: "64bbc1f9-d5eb-444f-9e53-71413408affa"
   startupTimeout: 1
   endpoints: public
 # test
