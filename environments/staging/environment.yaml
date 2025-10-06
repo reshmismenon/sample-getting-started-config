@@ -43,8 +43,8 @@ app:
   #    logGroup: myLogGroup
   #    region: us-east-1
 
-  version: "64bbc1f9-d5eb-444f-9e53-71413408affa"
-  startupTimeout: 250
+  version: "086a8a9e-abc8-44bc-9505-d61550080bf4"
+  startupTimeout: 40
   endpoints: public
 # test
 # probes
