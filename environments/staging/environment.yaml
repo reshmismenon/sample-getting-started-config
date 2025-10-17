@@ -44,9 +44,7 @@ app:
   #    region: us-east-1
 
   version: "086a8a9e-abc8-44bc-9505-d61550080bf4"
-  startupTimeout: 12
   startupCheckInterval: "100"
-  checkInterval: "5"
   endpoints: public
 # test
 # probes
