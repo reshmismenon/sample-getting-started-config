@@ -44,7 +44,7 @@ app:
   #    region: us-east-1
 
   version: "2ef6c363-7a17-4554-b375-dfe7dfa44c9e"
-  startupTimeout: 400
+  startupTimeout: 30
   endpoints: public
 # test 8070
 # probes
